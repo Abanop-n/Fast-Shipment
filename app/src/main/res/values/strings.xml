@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FastShipV1</string>
+    <string name="title_notifications">Not</string>
+    <string name="title_dashboard">dash</string>
+    <string name="title_home">home</string>
+    <string name="title_activity_home">Home</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_ship">Shippment</string>
+    <string name="nav_trip">Trips</string>
+    <string name="nav_profile">Profile</string>
+</resources>
